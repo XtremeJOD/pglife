@@ -17,3 +17,28 @@ Internshala Trainings. </samp>
 </samp>
 
 ### Author | @[lizzencamelo](https://github.com/lizzencamelo/)
+
+### PGLife Website Design
+
+#### Home Page
+![Home Page](product/home_1.png)
+
+#### SignUp Modal  
+
+![Signup Modal](product/signup_modal.png)
+
+#### Login Modal   
+
+![Login Modal](product/login_modal.png)
+
+#### Dashboard   
+
+![Dashboard](product/dashboard.png)
+
+#### Property List Page  
+
+![Property List Page](product/property_list.png)
+
+#### Property Detail Page
+
+![Property Detil Page](product/property_detail.png)
