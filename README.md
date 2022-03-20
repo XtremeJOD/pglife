@@ -5,9 +5,9 @@ Web Development Trainings.
 Internshala Trainings. </samp>
 
 ### Database
-    -- Download pglife.sql from database directory in repository.
-    -- Create database in phpmyadmin with name pglife.
-    -- Import pglife.sql to database.
+    -- Download SQL file from database directory in repository.
+    -- Create database in phpmyadmin named pglife.
+    -- Import SQL file to database.
 
 ### Future Developments
 <samp> 
