@@ -11,7 +11,7 @@ Internshala Trainings. </samp>
     -- Create database in phpmyadmin named pglife.
     -- Import SQL file to database.
 
-### Future Developments
+### Continued Developments
 <samp> 
 &nbsp;&nbsp;&nbsp;-- Implement the filter modal in <b>property_list.php</b> page. 
 </samp>
