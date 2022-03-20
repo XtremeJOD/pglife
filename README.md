@@ -4,6 +4,8 @@
 Web Development Trainings.  
 Internshala Trainings. </samp>
 
+### Web Server |  Apache HTTP Server
+
 ### Database
     -- Download SQL file from database directory in repository.
     -- Create database in phpmyadmin named pglife.
@@ -14,4 +16,4 @@ Internshala Trainings. </samp>
 &nbsp;&nbsp;&nbsp;-- Implement the filter modal in <b>property_list.php</b> page. 
 </samp>
 
-### Author @[lizzencamelo](https://github.com/lizzencamelo/)
+### Author | @[lizzencamelo](https://github.com/lizzencamelo/)
